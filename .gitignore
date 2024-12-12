@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+dist/
+public/assets/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Entornos
+.env
+.env.*
